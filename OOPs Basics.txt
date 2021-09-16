@@ -1,6 +1,9 @@
 OOPS:
 
-#OOPs
+#OOPs concept: the main concept of oops is to bind
+Data and function that work on that together as a 
+Single unit so that no other part of the code can 
+Access the data. 
 
 #Why OOPs:
 
